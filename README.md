@@ -4,7 +4,7 @@
 
 
   <div style="display: flex; align-items: center;">
-  <img src="welcome.gif" width="300" style="margin-right: 20px;">
+  <img src="cat keyboard.gif" width="300" style="margin-right: 20px;">
   <p>
     Ben Nurhanım, bilgisayar mühendisliği öğrencisiyim ve yeni teknolojiler öğrenmeye hevesliyim.<br>
     Her projede kendimi geliştirmek ve farklı alanlarda deneyim kazanmak için çalışırım.<br>
