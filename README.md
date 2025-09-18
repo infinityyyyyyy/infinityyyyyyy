@@ -3,8 +3,7 @@
 <br>
 
 <center>
-  <img src="<img src="https://media.tenor.com/fUGsaMWgVpMAAAAM/kinessisk-hello-world.gif" width="150">
-" alt="Selam" width="150">
+  <img src="https://media.tenor.com/fUGsaMWgVpMAAAAM/kinessisk-hello-world.gif" width="150">
 </center>
 
 <br><br>
