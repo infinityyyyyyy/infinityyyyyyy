@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Merhaba, ben Nurhanım</h1>
+<h1 align="center">Hello, I am Nurhanım</h1>
 
 <center>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Selam" width="150">
@@ -11,10 +11,13 @@
   <strong>Programlama / Programming:</strong>
   <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,js,php" height="30"/>  
   <strong>Web:</strong>
+  <br>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,mysql" height="30"/>  
+  <br>
   <strong>Donanım / Hardware:</strong>
   <img src="https://skillicons.dev/icons?i=arduino,esp32" height="30"/>  
 </p>
+<br>
 
 
 ### 🌐 Sosyal Medya / Socials
