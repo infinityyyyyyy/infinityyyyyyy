@@ -2,7 +2,7 @@
 
 <br>
 
-<center>
+
   <div style="display: flex; align-items: center;">
   <img src="https://media.tenor.com/fUGsaMWgVpMAAAAM/kinessisk-hello-world.gif" width="150" style="margin-right: 20px;">
   <p>
@@ -16,7 +16,6 @@
   </p>
 </div>
 
-</center>
 
 <br><br>
 
