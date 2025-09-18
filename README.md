@@ -1,15 +1,14 @@
-<h1 align="center">🫡</h1>
+<h1 align="center">Hello Everyone🫡</h1>
 
 <br>
 
 
   <div style="display: flex; align-items: center;">
-  <img src="https://media.tenor.com/fUGsaMWgVpMAAAAM/kinessisk-hello-world.gif" width="150" style="margin-right: 20px;">
+  <img src="https://media.tenor.com/fUGsaMWgVpMAAAAM/kinessisk-hello-world.gif" width="300" style="margin-right: 20px;">
   <p>
     Ben Nurhanım, bilgisayar mühendisliği öğrencisiyim ve yeni teknolojiler öğrenmeye hevesliyim.<br>
     Her projede kendimi geliştirmek ve farklı alanlarda deneyim kazanmak için çalışırım.<br>
-    Takım çalışmasına ve yenilikçi fikirlere açık biriyim.<br><br>
-
+    Takım çalışmasına ve yenilikçi fikirlere açık biriyim.<br>
     I am Nurhanım, a Computer Engineering student eager to learn new technologies.<br>
     I strive to improve myself and gain experience in different areas with every project.<br>
     I am open to teamwork and innovative ideas.
