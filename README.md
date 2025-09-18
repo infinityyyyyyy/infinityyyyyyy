@@ -3,7 +3,7 @@
 <br>
 
 <center>
-  <img src="<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150">
+  <img src="<img src="https://media.tenor.com/fUGsaMWgVpMAAAAM/kinessisk-hello-world.gif" width="150">
 " alt="Selam" width="150">
 </center>
 
