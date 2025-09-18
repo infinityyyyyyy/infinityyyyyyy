@@ -1,9 +1,21 @@
-<h1 align="center">Hello, I am Nurhanım</h1>
+<h1 align="center">🫡</h1>
 
 <br>
 
 <center>
-  <img src="https://media.tenor.com/fUGsaMWgVpMAAAAM/kinessisk-hello-world.gif" width="150">
+  <div style="display: flex; align-items: center;">
+  <img src="https://media.tenor.com/fUGsaMWgVpMAAAAM/kinessisk-hello-world.gif" width="150" style="margin-right: 20px;">
+  <p>
+    Ben Nurhanım, bilgisayar mühendisliği öğrencisiyim ve yeni teknolojiler öğrenmeye hevesliyim.<br>
+    Her projede kendimi geliştirmek ve farklı alanlarda deneyim kazanmak için çalışırım.<br>
+    Takım çalışmasına ve yenilikçi fikirlere açık biriyim.<br><br>
+
+    I am Nurhanım, a Computer Engineering student eager to learn new technologies.<br>
+    I strive to improve myself and gain experience in different areas with every project.<br>
+    I am open to teamwork and innovative ideas.
+  </p>
+</div>
+
 </center>
 
 <br><br>
