@@ -4,12 +4,12 @@
 
 
   <div style="display: flex; align-items: center;">
-  <img src="cat keyboard.gif" width="300" style="margin-right: 20px;">
+  <img src="cat keyboard.gif" width="300" height="200" style="margin-right: 20px;">
   <p>
     Ben Nurhanım, bilgisayar mühendisliği öğrencisiyim ve yeni teknolojiler öğrenmeye hevesliyim.<br>
     Her projede kendimi geliştirmek ve farklı alanlarda deneyim kazanmak için çalışırım.<br>
     Takım çalışmasına ve yenilikçi fikirlere açık biriyim.<br>
-    <img src="atlayan balık.gif" width="500" height="30" style="margin-right: 20px;"> <br>
+    <img src="atlayan balık.gif" width="500" height="100" style="margin-right: 20px;"> <br>
     I am Nurhanım, a Computer Engineering student eager to learn new technologies.<br>
     I strive to improve myself and gain experience in different areas with every project.<br>
     I am open to teamwork and innovative ideas.
